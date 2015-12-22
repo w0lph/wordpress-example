@@ -2,7 +2,7 @@
 
 # To force a specific version of WordPress, set this variable:
 #
- install_version="4.3"
+ install_version="4.2"
 
 # Used in this script only
 #
